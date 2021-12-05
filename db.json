@@ -1,0 +1,17 @@
+{
+"login": [
+    {
+        "id": 1,
+        "usuario": "Julia Silva",
+        "senha": "juliazinha07"
+    }, {
+        "id":2,
+        "usuario": "Marina Alves",
+        "senha": "marinathebest"
+    }, {
+        "id": 3,
+        "usuario": "Sara Lopes",
+        "senha": "sarinha0203"
+    }
+]
+}
